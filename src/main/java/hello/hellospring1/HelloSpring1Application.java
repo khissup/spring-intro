@@ -8,7 +8,7 @@ public class HelloSpring1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloSpring1Application.class, args);
-		// java version 변경
+		// java version 변경.
 	}
 
 }
